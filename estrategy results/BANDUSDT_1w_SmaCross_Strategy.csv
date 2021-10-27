@@ -1,0 +1,931 @@
+;sma1;sma2;output
+0;1;2;"Start                     2019-09-22 20:59...
+End                       2021-10-31 20:59...
+Duration                    770 days 00:00:00
+Exposure Time [%]                   72.972973
+Equity Final [$]            1552199778.636499
+Equity Peak [$]               2300952549.2128
+Return [%]                        1452.199779
+Buy & Hold Return [%]             1217.820816
+Return (Ann.) [%]               824378.056705
+Volatility (Ann.) [%]     7254262819543.58...
+Sharpe Ratio                              0.0
+Sortino Ratio                      6145.28631
+Calmar Ratio                     14982.976022
+Max. Drawdown [%]                  -55.020982
+Avg. Drawdown [%]                  -24.304673
+Max. Drawdown Duration      448 days 00:00:00
+Avg. Drawdown Duration      116 days 00:00:00
+# Trades                                   27
+Win Rate [%]                        37.037037
+Best Trade [%]                     257.952043
+Worst Trade [%]                    -29.879136
+Avg. Trade [%]                        10.6902
+Max. Trade Duration          35 days 00:00:00
+Avg. Trade Duration          14 days 00:00:00
+Profit Factor                        4.286061
+Expectancy [%]                      20.952445
+SQN                                  0.684403
+_strategy                            SmaCross
+_equity_curve                             ...
+_trades                            Size  E...
+dtype: object"
+1;1;3;"Start                     2019-09-22 20:59...
+End                       2021-10-31 20:59...
+Duration                    770 days 00:00:00
+Exposure Time [%]                   71.171171
+Equity Final [$]            2310220366.461999
+Equity Peak [$]             3307778049.993999
+Return [%]                        2210.220366
+Buy & Hold Return [%]             1217.820816
+Return (Ann.) [%]              3048395.311627
+Volatility (Ann.) [%]     25210742469719.3...
+Sharpe Ratio                              0.0
+Sortino Ratio                    22279.037928
+Calmar Ratio                     55003.523474
+Max. Drawdown [%]                  -55.421819
+Avg. Drawdown [%]                  -22.319539
+Max. Drawdown Duration      252 days 00:00:00
+Avg. Drawdown Duration       77 days 00:00:00
+# Trades                                   19
+Win Rate [%]                        52.631579
+Best Trade [%]                     479.548374
+Worst Trade [%]                    -29.879136
+Avg. Trade [%]                      17.969906
+Max. Trade Duration          63 days 00:00:00
+Avg. Trade Duration          23 days 00:00:00
+Profit Factor                        7.107831
+Expectancy [%]                      39.204608
+SQN                                  0.800564
+_strategy                            SmaCross
+_equity_curve                             ...
+_trades                            Size  E...
+dtype: object"
+2;1;4;"Start                     2019-09-22 20:59...
+End                       2021-10-31 20:59...
+Duration                    770 days 00:00:00
+Exposure Time [%]                   67.567568
+Equity Final [$]            2135355760.826599
+Equity Peak [$]               3203259200.1496
+Return [%]                        2035.355761
+Buy & Hold Return [%]             1217.820816
+Return (Ann.) [%]              2353222.369958
+Volatility (Ann.) [%]     22859725529296.0...
+Sharpe Ratio                              0.0
+Sortino Ratio                    16498.777784
+Calmar Ratio                     41074.832906
+Max. Drawdown [%]                    -57.2911
+Avg. Drawdown [%]                   -22.94198
+Max. Drawdown Duration      252 days 00:00:00
+Avg. Drawdown Duration       77 days 00:00:00
+# Trades                                   16
+Win Rate [%]                             50.0
+Best Trade [%]                     376.158711
+Worst Trade [%]                    -20.375518
+Avg. Trade [%]                       21.08543
+Max. Trade Duration          70 days 00:00:00
+Avg. Trade Duration          26 days 00:00:00
+Profit Factor                        8.453845
+Expectancy [%]                      46.692779
+SQN                                   1.01691
+_strategy                            SmaCross
+_equity_curve                             ...
+_trades                            Size  E...
+dtype: object"
+3;1;5;"Start                     2019-09-22 20:59...
+End                       2021-10-31 20:59...
+Duration                    770 days 00:00:00
+Exposure Time [%]                    60.36036
+Equity Final [$]              1648312458.8956
+Equity Peak [$]               2687091852.6022
+Return [%]                        1548.312459
+Buy & Hold Return [%]             1217.820816
+Return (Ann.) [%]              1004462.287081
+Volatility (Ann.) [%]     6247567921641.70...
+Sharpe Ratio                              0.0
+Sortino Ratio                      7270.10506
+Calmar Ratio                     16548.094416
+Max. Drawdown [%]                  -60.699574
+Avg. Drawdown [%]                  -23.463768
+Max. Drawdown Duration      252 days 00:00:00
+Avg. Drawdown Duration       78 days 00:00:00
+# Trades                                   13
+Win Rate [%]                        46.153846
+Best Trade [%]                     376.158711
+Worst Trade [%]                    -25.865672
+Avg. Trade [%]                      24.056186
+Max. Trade Duration          70 days 00:00:00
+Avg. Trade Duration          30 days 00:00:00
+Profit Factor                        8.394206
+Expectancy [%]                       46.26485
+SQN                                  1.068193
+_strategy                            SmaCross
+_equity_curve                             ...
+_trades                            Size  E...
+dtype: object"
+4;1;6;"Start                     2019-09-22 20:59...
+End                       2021-10-31 20:59...
+Duration                    770 days 00:00:00
+Exposure Time [%]                    60.36036
+Equity Final [$]              1505626037.7739
+Equity Peak [$]                2586332808.629
+Return [%]                        1405.626038
+Buy & Hold Return [%]             1217.820816
+Return (Ann.) [%]               745787.624778
+Volatility (Ann.) [%]     4954134936697.48...
+Sharpe Ratio                              0.0
+Sortino Ratio                     5304.671231
+Calmar Ratio                     12209.281642
+Max. Drawdown [%]                  -61.083661
+Avg. Drawdown [%]                  -23.090139
+Max. Drawdown Duration      252 days 00:00:00
+Avg. Drawdown Duration       75 days 00:00:00
+# Trades                                   12
+Win Rate [%]                             50.0
+Best Trade [%]                     376.158711
+Worst Trade [%]                    -25.865672
+Avg. Trade [%]                      25.355413
+Max. Trade Duration          70 days 00:00:00
+Avg. Trade Duration          33 days 00:00:00
+Profit Factor                        8.020328
+Expectancy [%]                      49.347051
+SQN                                  0.947277
+_strategy                            SmaCross
+_equity_curve                             ...
+_trades                            Size  E...
+dtype: object"
+5;1;7;"Start                     2019-09-22 20:59...
+End                       2021-10-31 20:59...
+Duration                    770 days 00:00:00
+Exposure Time [%]                   58.558559
+Equity Final [$]              1264182657.5553
+Equity Peak [$]               2641200614.2889
+Return [%]                        1164.182658
+Buy & Hold Return [%]             1217.820816
+Return (Ann.) [%]               419725.055579
+Volatility (Ann.) [%]     2779548695863.09375
+Sharpe Ratio                              0.0
+Sortino Ratio                     2994.562971
+Calmar Ratio                      6277.840735
+Max. Drawdown [%]                  -66.858188
+Avg. Drawdown [%]                  -26.177182
+Max. Drawdown Duration      252 days 00:00:00
+Avg. Drawdown Duration       77 days 00:00:00
+# Trades                                   11
+Win Rate [%]                        54.545455
+Best Trade [%]                     376.158711
+Worst Trade [%]                    -25.865672
+Avg. Trade [%]                      25.940244
+Max. Trade Duration          77 days 00:00:00
+Avg. Trade Duration          35 days 00:00:00
+Profit Factor                         7.33907
+Expectancy [%]                      50.939889
+SQN                                    0.7505
+_strategy                            SmaCross
+_equity_curve                             ...
+_trades                            Size  E...
+dtype: object"
+6;1;12;"Start                     2019-09-22 20:59...
+End                       2021-10-31 20:59...
+Duration                    770 days 00:00:00
+Exposure Time [%]                   61.261261
+Equity Final [$]               700233092.8774
+Equity Peak [$]               1400686686.9863
+Return [%]                         600.233093
+Buy & Hold Return [%]             1217.820816
+Return (Ann.) [%]                60072.969779
+Volatility (Ann.) [%]     442135832277.207764
+Sharpe Ratio                              0.0
+Sortino Ratio                      416.329752
+Calmar Ratio                        886.26018
+Max. Drawdown [%]                  -67.782544
+Avg. Drawdown [%]                  -23.337511
+Max. Drawdown Duration      448 days 00:00:00
+Avg. Drawdown Duration       88 days 00:00:00
+# Trades                                   10
+Win Rate [%]                             40.0
+Best Trade [%]                     226.020358
+Worst Trade [%]                    -20.375518
+Avg. Trade [%]                      21.485449
+Max. Trade Duration         112 days 00:00:00
+Avg. Trade Duration          41 days 00:00:00
+Profit Factor                        6.213422
+Expectancy [%]                      38.462888
+SQN                                  0.883454
+_strategy                            SmaCross
+_equity_curve                             ...
+_trades                           Size  En...
+dtype: object"
+7;2;1;"Start                     2019-09-22 20:59...
+End                       2021-10-31 20:59...
+Duration                    770 days 00:00:00
+Exposure Time [%]                   67.567568
+Equity Final [$]               167504217.4629
+Equity Peak [$]                285689389.5859
+Return [%]                          67.504217
+Buy & Hold Return [%]             1217.820816
+Return (Ann.) [%]                   445.33232
+Volatility (Ann.) [%]            17761.785221
+Sharpe Ratio                         0.025072
+Sortino Ratio                        2.931382
+Calmar Ratio                         7.308297
+Max. Drawdown [%]                  -60.935174
+Avg. Drawdown [%]                  -22.614099
+Max. Drawdown Duration      168 days 00:00:00
+Avg. Drawdown Duration       67 days 00:00:00
+# Trades                                   26
+Win Rate [%]                        65.384615
+Best Trade [%]                      50.569154
+Worst Trade [%]                    -47.381919
+Avg. Trade [%]                       2.003805
+Max. Trade Duration          35 days 00:00:00
+Avg. Trade Duration          14 days 00:00:00
+Profit Factor                        1.745714
+Expectancy [%]                       3.845011
+SQN                                  0.367424
+_strategy                            SmaCross
+_equity_curve                             ...
+_trades                            Size  E...
+dtype: object"
+8;2;3;"Start                     2019-09-22 20:59...
+End                       2021-10-31 20:59...
+Duration                    770 days 00:00:00
+Exposure Time [%]                   64.864865
+Equity Final [$]               281033200.9406
+Equity Peak [$]                569880497.9094
+Return [%]                         181.033201
+Buy & Hold Return [%]             1217.820816
+Return (Ann.) [%]                 2889.815981
+Volatility (Ann.) [%]            520137.13711
+Sharpe Ratio                         0.005556
+Sortino Ratio                       20.667968
+Calmar Ratio                        42.206455
+Max. Drawdown [%]                  -68.468579
+Avg. Drawdown [%]                  -36.600563
+Max. Drawdown Duration      252 days 00:00:00
+Avg. Drawdown Duration      140 days 00:00:00
+# Trades                                   20
+Win Rate [%]                             55.0
+Best Trade [%]                     109.744972
+Worst Trade [%]                    -37.994269
+Avg. Trade [%]                       5.302306
+Max. Trade Duration          49 days 00:00:00
+Avg. Trade Duration          19 days 00:00:00
+Profit Factor                        2.390507
+Expectancy [%]                      11.024946
+SQN                                  0.556771
+_strategy                            SmaCross
+_equity_curve                             ...
+_trades                            Size  E...
+dtype: object"
+9;2;4;"Start                     2019-09-22 20:59...
+End                       2021-10-31 20:59...
+Duration                    770 days 00:00:00
+Exposure Time [%]                   67.567568
+Equity Final [$]               394780809.8467
+Equity Peak [$]               1430314536.8325
+Return [%]                          294.78081
+Buy & Hold Return [%]             1217.820816
+Return (Ann.) [%]                 9040.933742
+Volatility (Ann.) [%]     136638591245.131561
+Sharpe Ratio                              0.0
+Sortino Ratio                        51.93391
+Calmar Ratio                       111.642502
+Max. Drawdown [%]                   -80.98111
+Avg. Drawdown [%]                  -31.373938
+Max. Drawdown Duration      203 days 00:00:00
+Avg. Drawdown Duration       88 days 00:00:00
+# Trades                                   16
+Win Rate [%]                            43.75
+Best Trade [%]                     579.054254
+Worst Trade [%]                    -61.467683
+Avg. Trade [%]                       8.961294
+Max. Trade Duration          56 days 00:00:00
+Avg. Trade Duration          26 days 00:00:00
+Profit Factor                        4.768282
+Expectancy [%]                      38.673672
+SQN                                  0.245865
+_strategy                            SmaCross
+_equity_curve                             ...
+_trades                            Size  E...
+dtype: object"
+10;2;5;"Start                     2019-09-22 20:59...
+End                       2021-10-31 20:59...
+Duration                    770 days 00:00:00
+Exposure Time [%]                   59.459459
+Equity Final [$]              1054637940.5171
+Equity Peak [$]               1859464678.0307
+Return [%]                         954.637941
+Buy & Hold Return [%]             1217.820816
+Return (Ann.) [%]               231244.350461
+Volatility (Ann.) [%]     1804377964417.38623
+Sharpe Ratio                              0.0
+Sortino Ratio                     1545.805522
+Calmar Ratio                      4134.862837
+Max. Drawdown [%]                  -55.925519
+Avg. Drawdown [%]                  -30.551985
+Max. Drawdown Duration      203 days 00:00:00
+Avg. Drawdown Duration       99 days 00:00:00
+# Trades                                   13
+Win Rate [%]                        46.153846
+Best Trade [%]                     376.158711
+Worst Trade [%]                    -32.857586
+Avg. Trade [%]                      19.867172
+Max. Trade Duration          70 days 00:00:00
+Avg. Trade Duration          29 days 00:00:00
+Profit Factor                        6.501014
+Expectancy [%]                      42.156414
+SQN                                  0.923339
+_strategy                            SmaCross
+_equity_curve                             ...
+_trades                            Size  E...
+dtype: object"
+11;2;7;"Start                     2019-09-22 20:59...
+End                       2021-10-31 20:59...
+Duration                    770 days 00:00:00
+Exposure Time [%]                   56.756757
+Equity Final [$]              1236076776.4623
+Equity Peak [$]               2019303181.3076
+Return [%]                        1136.076776
+Buy & Hold Return [%]             1217.820816
+Return (Ann.) [%]               389806.300871
+Volatility (Ann.) [%]     2447768590187.26...
+Sharpe Ratio                              0.0
+Sortino Ratio                     2845.693845
+Calmar Ratio                      7146.516137
+Max. Drawdown [%]                  -54.544941
+Avg. Drawdown [%]                  -21.329031
+Max. Drawdown Duration      448 days 00:00:00
+Avg. Drawdown Duration       88 days 00:00:00
+# Trades                                   10
+Win Rate [%]                             70.0
+Best Trade [%]                      325.41259
+Worst Trade [%]                    -20.762066
+Avg. Trade [%]                      28.589215
+Max. Trade Duration          77 days 00:00:00
+Avg. Trade Duration          38 days 00:00:00
+Profit Factor                       13.012442
+Expectancy [%]                      49.397564
+SQN                                  1.053731
+_strategy                            SmaCross
+_equity_curve                             ...
+_trades                           Size  En...
+dtype: object"
+12;3;1;"Start                     2019-09-22 20:59...
+End                       2021-10-31 20:59...
+Duration                    770 days 00:00:00
+Exposure Time [%]                   54.954955
+Equity Final [$]               112543377.2706
+Equity Peak [$]                178614637.5076
+Return [%]                          12.543377
+Buy & Hold Return [%]             1217.820816
+Return (Ann.) [%]                   47.487349
+Volatility (Ann.) [%]             3991.681354
+Sharpe Ratio                         0.011897
+Sortino Ratio                        0.317289
+Calmar Ratio                         0.829722
+Max. Drawdown [%]                  -57.232849
+Avg. Drawdown [%]                   -38.91927
+Max. Drawdown Duration      238 days 00:00:00
+Avg. Drawdown Duration      161 days 00:00:00
+# Trades                                   18
+Win Rate [%]                        55.555556
+Best Trade [%]                      50.569154
+Worst Trade [%]                    -42.395099
+Avg. Trade [%]                       0.658651
+Max. Trade Duration          35 days 00:00:00
+Avg. Trade Duration          17 days 00:00:00
+Profit Factor                        1.438238
+Expectancy [%]                       2.743737
+SQN                                   0.10822
+_strategy                            SmaCross
+_equity_curve                             ...
+_trades                            Size  E...
+dtype: object"
+13;3;2;"Start                     2019-09-22 20:59...
+End                       2021-10-31 20:59...
+Duration                    770 days 00:00:00
+Exposure Time [%]                   62.162162
+Equity Final [$]               885394376.7356
+Equity Peak [$]               1267096954.8666
+Return [%]                         785.394377
+Buy & Hold Return [%]             1217.820816
+Return (Ann.) [%]               130054.357696
+Volatility (Ann.) [%]      297199905175.63501
+Sharpe Ratio                              0.0
+Sortino Ratio                      885.674108
+Calmar Ratio                      2048.505327
+Max. Drawdown [%]                  -63.487439
+Avg. Drawdown [%]                  -28.537325
+Max. Drawdown Duration      245 days 00:00:00
+Avg. Drawdown Duration      103 days 00:00:00
+# Trades                                   19
+Win Rate [%]                        63.157895
+Best Trade [%]                     268.726337
+Worst Trade [%]                    -44.633342
+Avg. Trade [%]                      12.162919
+Max. Trade Duration          56 days 00:00:00
+Avg. Trade Duration          19 days 00:00:00
+Profit Factor                        4.654521
+Expectancy [%]                      22.115924
+SQN                                  0.709263
+_strategy                            SmaCross
+_equity_curve                             ...
+_trades                            Size  E...
+dtype: object"
+14;3;4;"Start                     2019-09-22 20:59...
+End                       2021-10-31 20:59...
+Duration                    770 days 00:00:00
+Exposure Time [%]                   63.063063
+Equity Final [$]               329610971.3325
+Equity Peak [$]               1030378493.6707
+Return [%]                         229.610971
+Buy & Hold Return [%]             1217.820816
+Return (Ann.) [%]                 4950.551324
+Volatility (Ann.) [%]      41245207916.752449
+Sharpe Ratio                              0.0
+Sortino Ratio                       29.637834
+Calmar Ratio                        64.647637
+Max. Drawdown [%]                  -76.577452
+Avg. Drawdown [%]                   -32.22689
+Max. Drawdown Duration      448 days 00:00:00
+Avg. Drawdown Duration      142 days 00:00:00
+# Trades                                   19
+Win Rate [%]                        36.842105
+Best Trade [%]                     579.054254
+Worst Trade [%]                    -51.371376
+Avg. Trade [%]                       6.001422
+Max. Trade Duration          49 days 00:00:00
+Avg. Trade Duration          19 days 00:00:00
+Profit Factor                        3.693128
+Expectancy [%]                      31.601197
+SQN                                   0.21262
+_strategy                            SmaCross
+_equity_curve                             ...
+_trades                            Size  E...
+dtype: object"
+15;3;5;"Start                     2019-09-22 20:59...
+End                       2021-10-31 20:59...
+Duration                    770 days 00:00:00
+Exposure Time [%]                   65.765766
+Equity Final [$]               543090586.0675
+Equity Peak [$]               1255805079.5372
+Return [%]                         443.090586
+Buy & Hold Return [%]             1217.820816
+Return (Ann.) [%]                25989.868768
+Volatility (Ann.) [%]     409767459906.878296
+Sharpe Ratio                              0.0
+Sortino Ratio                      147.764924
+Calmar Ratio                        405.99462
+Max. Drawdown [%]                  -64.015303
+Avg. Drawdown [%]                   -31.80668
+Max. Drawdown Duration      448 days 00:00:00
+Avg. Drawdown Duration      140 days 00:00:00
+# Trades                                   13
+Win Rate [%]                        61.538462
+Best Trade [%]                     376.158711
+Worst Trade [%]                    -51.371376
+Avg. Trade [%]                      13.901288
+Max. Trade Duration          77 days 00:00:00
+Avg. Trade Duration          33 days 00:00:00
+Profit Factor                        4.608058
+Expectancy [%]                      37.080992
+SQN                                  0.483427
+_strategy                            SmaCross
+_equity_curve                             ...
+_trades                            Size  E...
+dtype: object"
+16;3;6;"Start                     2019-09-22 20:59...
+End                       2021-10-31 20:59...
+Duration                    770 days 00:00:00
+Exposure Time [%]                   58.558559
+Equity Final [$]               565281552.7141
+Equity Peak [$]               2020910902.5771
+Return [%]                         465.281553
+Buy & Hold Return [%]             1217.820816
+Return (Ann.) [%]                29662.100188
+Volatility (Ann.) [%]     367687945233.122986
+Sharpe Ratio                              0.0
+Sortino Ratio                      178.345859
+Calmar Ratio                       402.187161
+Max. Drawdown [%]                  -73.751982
+Avg. Drawdown [%]                  -24.072894
+Max. Drawdown Duration      448 days 00:00:00
+Avg. Drawdown Duration       88 days 00:00:00
+# Trades                                   10
+Win Rate [%]                             60.0
+Best Trade [%]                      325.41259
+Worst Trade [%]                    -51.371376
+Avg. Trade [%]                      18.912218
+Max. Trade Duration          77 days 00:00:00
+Avg. Trade Duration          39 days 00:00:00
+Profit Factor                        5.674773
+Expectancy [%]                      43.614378
+SQN                                  0.383102
+_strategy                            SmaCross
+_equity_curve                             ...
+_trades                           Size  En...
+dtype: object"
+17;4;1;"Start                     2019-09-22 20:59...
+End                       2021-10-31 20:59...
+Duration                    770 days 00:00:00
+Exposure Time [%]                   52.252252
+Equity Final [$]               116526356.4234
+Equity Peak [$]                233998076.7794
+Return [%]                          16.526356
+Buy & Hold Return [%]             1217.820816
+Return (Ann.) [%]                   65.356705
+Volatility (Ann.) [%]             3820.017593
+Sharpe Ratio                         0.017109
+Sortino Ratio                         0.45354
+Calmar Ratio                         1.034403
+Max. Drawdown [%]                  -63.183014
+Avg. Drawdown [%]                  -28.089993
+Max. Drawdown Duration      238 days 00:00:00
+Avg. Drawdown Duration      121 days 00:00:00
+# Trades                                   15
+Win Rate [%]                        53.333333
+Best Trade [%]                      50.569154
+Worst Trade [%]                    -55.560305
+Avg. Trade [%]                       1.024864
+Max. Trade Duration          49 days 00:00:00
+Avg. Trade Duration          21 days 00:00:00
+Profit Factor                        1.638098
+Expectancy [%]                       4.645603
+SQN                                  0.097813
+_strategy                            SmaCross
+_equity_curve                             ...
+_trades                            Size  E...
+dtype: object"
+18;4;2;"Start                     2019-09-22 20:59...
+End                       2021-10-31 20:59...
+Duration                    770 days 00:00:00
+Exposure Time [%]                   52.252252
+Equity Final [$]                630287014.209
+Equity Peak [$]                 670055839.236
+Return [%]                         530.287014
+Buy & Hold Return [%]             1217.820816
+Return (Ann.) [%]                42470.879578
+Volatility (Ann.) [%]          1090813.676288
+Sharpe Ratio                         0.038935
+Sortino Ratio                      408.179722
+Calmar Ratio                       674.663403
+Max. Drawdown [%]                  -62.951213
+Avg. Drawdown [%]                  -22.980504
+Max. Drawdown Duration      245 days 00:00:00
+Avg. Drawdown Duration       87 days 00:00:00
+# Trades                                   15
+Win Rate [%]                        73.333333
+Best Trade [%]                      68.474345
+Worst Trade [%]                    -52.746549
+Avg. Trade [%]                      13.058328
+Max. Trade Duration          49 days 00:00:00
+Avg. Trade Duration          21 days 00:00:00
+Profit Factor                        4.927062
+Expectancy [%]                      17.779222
+SQN                                  1.605016
+_strategy                            SmaCross
+_equity_curve                             ...
+_trades                            Size  E...
+dtype: object"
+19;4;3;"Start                     2019-09-22 20:59...
+End                       2021-10-31 20:59...
+Duration                    770 days 00:00:00
+Exposure Time [%]                   62.162162
+Equity Final [$]               890302018.3867
+Equity Peak [$]                982649989.5577
+Return [%]                         790.302018
+Buy & Hold Return [%]             1217.820816
+Return (Ann.) [%]               132441.711245
+Volatility (Ann.) [%]          6665436.370403
+Sharpe Ratio                          0.01987
+Sortino Ratio                     1161.948251
+Calmar Ratio                      2271.527389
+Max. Drawdown [%]                  -58.305135
+Avg. Drawdown [%]                   -18.45221
+Max. Drawdown Duration      175 days 00:00:00
+Avg. Drawdown Duration       82 days 00:00:00
+# Trades                                   19
+Win Rate [%]                        73.684211
+Best Trade [%]                      68.474345
+Worst Trade [%]                    -58.208358
+Avg. Trade [%]                      12.195555
+Max. Trade Duration          56 days 00:00:00
+Avg. Trade Duration          19 days 00:00:00
+Profit Factor                        4.958992
+Expectancy [%]                      17.110642
+SQN                                  1.524577
+_strategy                            SmaCross
+_equity_curve                             ...
+_trades                            Size  E...
+dtype: object"
+20;4;5;"Start                     2019-09-22 20:59...
+End                       2021-10-31 20:59...
+Duration                    770 days 00:00:00
+Exposure Time [%]                   59.459459
+Equity Final [$]              3449408710.0318
+Equity Peak [$]               4122416870.6338
+Return [%]                         3349.40871
+Buy & Hold Return [%]             1217.820816
+Return (Ann.) [%]             11390529.911116
+Volatility (Ann.) [%]     47317732866003.3...
+Sharpe Ratio                              0.0
+Sortino Ratio                    91046.173164
+Calmar Ratio                    322369.692198
+Max. Drawdown [%]                  -35.333749
+Avg. Drawdown [%]                  -16.961624
+Max. Drawdown Duration      182 days 00:00:00
+Avg. Drawdown Duration       55 days 00:00:00
+# Trades                                   13
+Win Rate [%]                        76.923077
+Best Trade [%]                     376.158711
+Worst Trade [%]                    -16.302412
+Avg. Trade [%]                      31.307052
+Max. Trade Duration          77 days 00:00:00
+Avg. Trade Duration          29 days 00:00:00
+Profit Factor                       33.739669
+Expectancy [%]                      49.164426
+SQN                                   2.36605
+_strategy                            SmaCross
+_equity_curve                             ...
+_trades                            Size  E...
+dtype: object"
+21;4;6;"Start                     2019-09-22 20:59...
+End                       2021-10-31 20:59...
+Duration                    770 days 00:00:00
+Exposure Time [%]                   57.657658
+Equity Final [$]                764543229.843
+Equity Peak [$]                1102913662.275
+Return [%]                          664.54323
+Buy & Hold Return [%]             1217.820816
+Return (Ann.) [%]                 80230.52489
+Volatility (Ann.) [%]     112432260719.890945
+Sharpe Ratio                         0.000001
+Sortino Ratio                        612.7459
+Calmar Ratio                      1620.605393
+Max. Drawdown [%]                  -49.506515
+Avg. Drawdown [%]                  -20.893468
+Max. Drawdown Duration      378 days 00:00:00
+Avg. Drawdown Duration       74 days 00:00:00
+# Trades                                   10
+Win Rate [%]                             60.0
+Best Trade [%]                      120.28606
+Worst Trade [%]                      -11.5323
+Avg. Trade [%]                      22.557588
+Max. Trade Duration          77 days 00:00:00
+Avg. Trade Duration          38 days 00:00:00
+Profit Factor                       10.959619
+Expectancy [%]                      29.305378
+SQN                                  1.766989
+_strategy                            SmaCross
+_equity_curve                             ...
+_trades                           Size  En...
+dtype: object"
+22;5;1;"Start                     2019-09-22 20:59...
+End                       2021-10-31 20:59...
+Duration                    770 days 00:00:00
+Exposure Time [%]                   54.054054
+Equity Final [$]               150957558.0341
+Equity Peak [$]                282236746.6891
+Return [%]                          50.957558
+Buy & Hold Return [%]             1217.820816
+Return (Ann.) [%]                  287.370325
+Volatility (Ann.) [%]            16577.891457
+Sharpe Ratio                         0.017335
+Sortino Ratio                        1.939025
+Calmar Ratio                         4.548221
+Max. Drawdown [%]                  -63.183014
+Avg. Drawdown [%]                  -39.561142
+Max. Drawdown Duration      238 days 00:00:00
+Avg. Drawdown Duration      161 days 00:00:00
+# Trades                                   12
+Win Rate [%]                        58.333333
+Best Trade [%]                      63.420543
+Worst Trade [%]                    -52.269003
+Avg. Trade [%]                       3.491473
+Max. Trade Duration          56 days 00:00:00
+Avg. Trade Duration          28 days 00:00:00
+Profit Factor                        2.024439
+Expectancy [%]                        8.64724
+SQN                                  0.233384
+_strategy                            SmaCross
+_equity_curve                             ...
+_trades                            Size  E...
+dtype: object"
+23;5;2;"Start                     2019-09-22 20:59...
+End                       2021-10-31 20:59...
+Duration                    770 days 00:00:00
+Exposure Time [%]                   54.054054
+Equity Final [$]               255479541.5284
+Equity Peak [$]                393806882.4244
+Return [%]                         155.479542
+Buy & Hold Return [%]             1217.820816
+Return (Ann.) [%]                 2085.266385
+Volatility (Ann.) [%]            82944.315927
+Sharpe Ratio                         0.025141
+Sortino Ratio                       15.330333
+Calmar Ratio                        33.003591
+Max. Drawdown [%]                  -63.183014
+Avg. Drawdown [%]                  -36.635111
+Max. Drawdown Duration      238 days 00:00:00
+Avg. Drawdown Duration      156 days 00:00:00
+# Trades                                   12
+Win Rate [%]                        58.333333
+Best Trade [%]                      63.420543
+Worst Trade [%]                    -52.269003
+Avg. Trade [%]                       8.130035
+Max. Trade Duration          56 days 00:00:00
+Avg. Trade Duration          28 days 00:00:00
+Profit Factor                         2.84069
+Expectancy [%]                      14.018727
+SQN                                   0.48837
+_strategy                            SmaCross
+_equity_curve                             ...
+_trades                            Size  E...
+dtype: object"
+24;5;3;"Start                     2019-09-22 20:59...
+End                       2021-10-31 20:59...
+Duration                    770 days 00:00:00
+Exposure Time [%]                   47.747748
+Equity Final [$]               496120574.5526
+Equity Peak [$]                591403271.7356
+Return [%]                         396.120575
+Buy & Hold Return [%]             1217.820816
+Return (Ann.) [%]                19277.215452
+Volatility (Ann.) [%]           418753.810914
+Sharpe Ratio                         0.046035
+Sortino Ratio                      193.462731
+Calmar Ratio                       455.096567
+Max. Drawdown [%]                  -42.358516
+Avg. Drawdown [%]                  -21.105972
+Max. Drawdown Duration      175 days 00:00:00
+Avg. Drawdown Duration      117 days 00:00:00
+# Trades                                   12
+Win Rate [%]                             75.0
+Best Trade [%]                       83.01682
+Worst Trade [%]                     -40.40056
+Avg. Trade [%]                      14.278782
+Max. Trade Duration          56 days 00:00:00
+Avg. Trade Duration          24 days 00:00:00
+Profit Factor                        3.802875
+Expectancy [%]                      20.556794
+SQN                                  0.974944
+_strategy                            SmaCross
+_equity_curve                             ...
+_trades                            Size  E...
+dtype: object"
+25;5;4;"Start                     2019-09-22 20:59...
+End                       2021-10-31 20:59...
+Duration                    770 days 00:00:00
+Exposure Time [%]                    49.54955
+Equity Final [$]               100060932.8206
+Equity Peak [$]                303068742.0078
+Return [%]                           0.060933
+Buy & Hold Return [%]             1217.820816
+Return (Ann.) [%]                    0.200504
+Volatility (Ann.) [%]             3536.643796
+Sharpe Ratio                         0.000057
+Sortino Ratio                        0.001381
+Calmar Ratio                         0.002616
+Max. Drawdown [%]                  -76.635739
+Avg. Drawdown [%]                  -23.873816
+Max. Drawdown Duration      420 days 00:00:00
+Avg. Drawdown Duration      151 days 00:00:00
+# Trades                                   12
+Win Rate [%]                        58.333333
+Best Trade [%]                       83.01682
+Worst Trade [%]                     -61.27971
+Avg. Trade [%]                       0.005076
+Max. Trade Duration          84 days 00:00:00
+Avg. Trade Duration          26 days 00:00:00
+Profit Factor                        1.682934
+Expectancy [%]                       7.599273
+SQN                                  0.000239
+_strategy                            SmaCross
+_equity_curve                             ...
+_trades                            Size  E...
+dtype: object"
+26;5;6;"Start                     2019-09-22 20:59...
+End                       2021-10-31 20:59...
+Duration                    770 days 00:00:00
+Exposure Time [%]                   54.954955
+Equity Final [$]                 506960740.99
+Equity Peak [$]                 671481888.074
+Return [%]                         406.960741
+Buy & Hold Return [%]             1217.820816
+Return (Ann.) [%]                20704.574084
+Volatility (Ann.) [%]      28994629326.075207
+Sharpe Ratio                         0.000001
+Sortino Ratio                      156.110271
+Calmar Ratio                       388.448143
+Max. Drawdown [%]                  -53.300742
+Avg. Drawdown [%]                  -28.244788
+Max. Drawdown Duration      196 days 00:00:00
+Avg. Drawdown Duration       82 days 00:00:00
+# Trades                                   10
+Win Rate [%]                             50.0
+Best Trade [%]                      120.28606
+Worst Trade [%]                    -24.982221
+Avg. Trade [%]                      16.624416
+Max. Trade Duration          77 days 00:00:00
+Avg. Trade Duration          36 days 00:00:00
+Profit Factor                        4.583625
+Expectancy [%]                      27.072002
+SQN                                  0.959002
+_strategy                            SmaCross
+_equity_curve                             ...
+_trades                           Size  En...
+dtype: object"
+27;6;1;"Start                     2019-09-22 20:59...
+End                       2021-10-31 20:59...
+Duration                    770 days 00:00:00
+Exposure Time [%]                   48.648649
+Equity Final [$]               191681636.2285
+Equity Peak [$]                343463171.0625
+Return [%]                          91.681636
+Buy & Hold Return [%]             1217.820816
+Return (Ann.) [%]                  749.583706
+Volatility (Ann.) [%]            24801.704999
+Sharpe Ratio                         0.030223
+Sortino Ratio                        5.660589
+Calmar Ratio                         11.86369
+Max. Drawdown [%]                  -63.183016
+Avg. Drawdown [%]                  -29.109251
+Max. Drawdown Duration      182 days 00:00:00
+Avg. Drawdown Duration      115 days 00:00:00
+# Trades                                   11
+Win Rate [%]                        63.636364
+Best Trade [%]                      63.420543
+Worst Trade [%]                    -52.269003
+Avg. Trade [%]                       6.093588
+Max. Trade Duration          77 days 00:00:00
+Avg. Trade Duration          28 days 00:00:00
+Profit Factor                        2.405649
+Expectancy [%]                      11.782755
+SQN                                  0.355225
+_strategy                            SmaCross
+_equity_curve                             ...
+_trades                            Size  E...
+dtype: object"
+28;6;5;"Start                     2019-09-22 20:59...
+End                       2021-10-31 20:59...
+Duration                    770 days 00:00:00
+Exposure Time [%]                   48.648649
+Equity Final [$]               766171546.4494
+Equity Peak [$]               1315877599.1324
+Return [%]                         666.171546
+Buy & Hold Return [%]             1217.820816
+Return (Ann.) [%]                80794.480936
+Volatility (Ann.) [%]         16740756.324186
+Sharpe Ratio                         0.004826
+Sortino Ratio                      584.239391
+Calmar Ratio                      1122.568034
+Max. Drawdown [%]                  -71.972904
+Avg. Drawdown [%]                   -24.69444
+Max. Drawdown Duration      203 days 00:00:00
+Avg. Drawdown Duration      100 days 00:00:00
+# Trades                                   10
+Win Rate [%]                             70.0
+Best Trade [%]                     283.173297
+Worst Trade [%]                     -65.14818
+Avg. Trade [%]                      22.583665
+Max. Trade Duration          84 days 00:00:00
+Avg. Trade Duration          31 days 00:00:00
+Profit Factor                        6.029028
+Expectancy [%]                      44.426017
+SQN                                  0.502412
+_strategy                            SmaCross
+_equity_curve                             ...
+_trades                           Size  En...
+dtype: object"
+29;7;1;"Start                     2019-09-22 20:59...
+End                       2021-10-31 20:59...
+Duration                    770 days 00:00:00
+Exposure Time [%]                   42.342342
+Equity Final [$]               273457824.7378
+Equity Peak [$]                473065707.6978
+Return [%]                         173.457825
+Buy & Hold Return [%]             1217.820816
+Return (Ann.) [%]                 2632.885504
+Volatility (Ann.) [%]            80296.599165
+Sharpe Ratio                          0.03279
+Sortino Ratio                        20.20741
+Calmar Ratio                         41.67078
+Max. Drawdown [%]                  -63.183015
+Avg. Drawdown [%]                  -26.216204
+Max. Drawdown Duration      182 days 00:00:00
+Avg. Drawdown Duration       98 days 00:00:00
+# Trades                                   10
+Win Rate [%]                             70.0
+Best Trade [%]                       83.01682
+Worst Trade [%]                    -52.269003
+Avg. Trade [%]                       10.58317
+Max. Trade Duration          77 days 00:00:00
+Avg. Trade Duration          26 days 00:00:00
+Profit Factor                        3.081224
+Expectancy [%]                      17.548436
+SQN                                  0.494759
+_strategy                            SmaCross
+_equity_curve                             ...
+_trades                           Size  En...
+dtype: object"
