@@ -1,0 +1,6 @@
+__pycache__/
+__pycache__/HiLo.cpython-38.pyc
+__pycache__/SmaCross.cpython-38.pyc
+.env
+backtestvenv/
+.vscode/settings.json
